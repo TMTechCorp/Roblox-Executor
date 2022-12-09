@@ -1,0 +1,62 @@
+🟢= Fully WORKING |🟡= UPDATING |
+(1_F0's Blox Fruits Script Hub!)
+ 
+ 
+🟢Mukuro Hub: 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()
+ 
+ 
+🟢Blox Hub (Multi-GUI):
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xK41T0/Free-Script/main/Bloxfruit%20Hub.lua")()
+ 
+ 
+🟢Fusion Hub:
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SHAREHACK/script/main/fusion1'))()
+ 
+ 
+🟢Project Meow:
+loadstring(game:HttpGet"https://rawscripts.net/raw/Project-Meow_421")()
+ 
+ 
+🟢Master Hub:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/Main.lua"))()
+ 
+ 
+🟢Owu Hub:
+loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/ouwHub/main/ouwHub'))()
+ 
+ 
+🟢SMZ Hub:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frerfgzz/free-script/main/SMZHUBv2BETA"))()
+ 
+ 
+🟢Magma Hub:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/accountnop/magmaisgay/main/magma", true))()
+ 
+ 
+🟢Strike Hub: 
+getgenv().Color = Color3.fromRGB(0, 128, 255)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded"))()
+ 
+ 
+🟢Maru Hub: 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/joi-droid/MaruHubBF/main/GOHANSSJ3'))()
+ 
+ 
+🟢Power X Hub:
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/natoppo044/modzcaster/main/POWERX.lua"),true))()
+ 
+ 
+🟢Netna Hub:
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NinoGod/NetnaYay/8d21ce23346c500c93bb8b4a71f7791e4058a70b/startload.lua'))()
+ 
+ 
+🟢Black Trap:
+loadstring(game:HttpGet("https://pastebin.com/raw/BdvUGb2q"))()
+ 
+ 
+🟢Ability Hub:
+local CustomLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/Hanabi112/Loading/main/main.lua"))()
+local SET_UP = CustomLoader("Ability Hub | Loading...", "json",{
+   URL = "https://raw.githubusercontent.com/Hanabi112/Ability-Hub-Free-Script/main/Abiliity-Hub.json";
+})
